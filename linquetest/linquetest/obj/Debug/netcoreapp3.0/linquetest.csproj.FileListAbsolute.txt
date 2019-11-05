@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\linquetest\linquetest\bin\Debug\netcoreapp3.0\linquetest.exe
+C:\Users\HP\source\repos\linquetest\linquetest\bin\Debug\netcoreapp3.0\linquetest.deps.json
+C:\Users\HP\source\repos\linquetest\linquetest\bin\Debug\netcoreapp3.0\linquetest.runtimeconfig.json
+C:\Users\HP\source\repos\linquetest\linquetest\bin\Debug\netcoreapp3.0\linquetest.runtimeconfig.dev.json
+C:\Users\HP\source\repos\linquetest\linquetest\bin\Debug\netcoreapp3.0\linquetest.dll
+C:\Users\HP\source\repos\linquetest\linquetest\bin\Debug\netcoreapp3.0\linquetest.pdb
+C:\Users\HP\source\repos\linquetest\linquetest\obj\Debug\netcoreapp3.0\linquetest.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\linquetest\linquetest\obj\Debug\netcoreapp3.0\linquetest.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\linquetest\linquetest\obj\Debug\netcoreapp3.0\linquetest.AssemblyInfo.cs
+C:\Users\HP\source\repos\linquetest\linquetest\obj\Debug\netcoreapp3.0\linquetest.dll
+C:\Users\HP\source\repos\linquetest\linquetest\obj\Debug\netcoreapp3.0\linquetest.pdb

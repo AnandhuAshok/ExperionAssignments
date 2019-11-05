@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\xmlparsing\xmlparsing\bin\Debug\netcoreapp3.0\xmlparsing.exe
+C:\Users\HP\source\repos\xmlparsing\xmlparsing\bin\Debug\netcoreapp3.0\xmlparsing.deps.json
+C:\Users\HP\source\repos\xmlparsing\xmlparsing\bin\Debug\netcoreapp3.0\xmlparsing.runtimeconfig.json
+C:\Users\HP\source\repos\xmlparsing\xmlparsing\bin\Debug\netcoreapp3.0\xmlparsing.runtimeconfig.dev.json
+C:\Users\HP\source\repos\xmlparsing\xmlparsing\bin\Debug\netcoreapp3.0\xmlparsing.dll
+C:\Users\HP\source\repos\xmlparsing\xmlparsing\bin\Debug\netcoreapp3.0\xmlparsing.pdb
+C:\Users\HP\source\repos\xmlparsing\xmlparsing\obj\Debug\netcoreapp3.0\xmlparsing.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\xmlparsing\xmlparsing\obj\Debug\netcoreapp3.0\xmlparsing.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\xmlparsing\xmlparsing\obj\Debug\netcoreapp3.0\xmlparsing.AssemblyInfo.cs
+C:\Users\HP\source\repos\xmlparsing\xmlparsing\obj\Debug\netcoreapp3.0\xmlparsing.dll
+C:\Users\HP\source\repos\xmlparsing\xmlparsing\obj\Debug\netcoreapp3.0\xmlparsing.pdb
